@@ -15,7 +15,7 @@ public class Calculatrice extends JFrame implements ActionListener{
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 2L;
 
 	// Parser = calculation, Equals = answer, JTextField number = number
 	double number, answer;
