@@ -10,14 +10,5 @@ Use the project by cloning the project into your desktop and run it with an IDE.
 git clone git@github.com:Cawa-theory/Calculatrice-Java.git
 ```
 
-## Usage
-
-```java
-add configuration and run me
-```
-
 ## Contributing
-This project were developped by Ihab Oraby and Sacha Mouchon for Iris in 2021 private project.
-
-## License
-[MIT](https://github.com/Cawa-theory/Calculatrice-Java/blob/master/LICENSE)
+This project were developped Sacha Mouchon for Iris in 2021 private project.
